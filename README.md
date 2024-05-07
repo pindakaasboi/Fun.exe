@@ -1,0 +1,2 @@
+# Fun.exe
+not destructive
